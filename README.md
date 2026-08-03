@@ -5,4 +5,6 @@ The goal is to teach the model to spot these features automatically, making it e
 
 <!--I independently reproduced and extended a published CNN-based galaxy merger classification pipeline, focusing on understanding astropy-based data handling and telescope-specific effects.-->
 
-Inspired from this article: https://spacetelescope.github.io/hellouniverse/notebooks/hello-universe/Classifying_JWST-HST_galaxy_mergers_with_CNNs/Classifying_JWST-HST_galaxy_mergers_with_CNNs.html
+Inspired from these articles: 
+- https://archive.stsci.edu/hello-universe/deepmerge
+- https://spacetelescope.github.io/hellouniverse/notebooks/hello-universe/Classifying_JWST-HST_galaxy_mergers_with_CNNs/Classifying_JWST-HST_galaxy_mergers_with_CNNs.html
